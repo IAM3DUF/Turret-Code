@@ -16,27 +16,6 @@ This project creates a remote-controlled turret that shoots Nerf Rival rounds. T
 - **Servo Motors** (2): Control the turret’s angle and direction.
 - **Wheeled Base (optional)**: Planned feature for tank-like movement.
 
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/nerf-turret-tank.git
-   cd nerf-turret-tank
-   ```
-
-2. **Install dependencies**:
-   Ensure your environment is set up for ESP32 development:
-   - [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/)
-   - Python packages for ESP32:
-     ```bash
-     pip install esptool
-     ```
-
-3. **Flash firmware**:
-   ```bash
-   idf.py flash
-   ```
-
 ## Usage
 
 1. **Power up the turret and remote ESP32 units**.

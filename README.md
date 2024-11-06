@@ -31,11 +31,3 @@ This project creates a remote-controlled turret that shoots Nerf Rival rounds. T
 ## Contributing
 
 Feel free to fork the repository and submit pull requests for new features, optimizations, or bug fixes!
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you'd like any additional details!
